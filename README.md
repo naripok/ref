@@ -46,3 +46,8 @@ Just don't want to lose these links.
 
 - Machine Learning, Andrew Ng - Stanford    
  * https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
+
+### Algorithms
+
+- Algorithms, Tim Roughgarden, Stanford
+ * https://www.youtube.com/watch?v=yRM3sc57q0c&list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa
