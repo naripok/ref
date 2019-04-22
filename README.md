@@ -51,3 +51,8 @@ Just don't want to lose these links.
 
 - Algorithms, Tim Roughgarden, Stanford
  * https://www.youtube.com/watch?v=yRM3sc57q0c&list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa
+ 
+### Database Design
+
+- NoSql design patterns, Rick Houlihan
+ * https://www.youtube.com/watch?v=HaEPXoXVf2k
