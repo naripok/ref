@@ -1,7 +1,6 @@
 # Personal Curriculum
   
 Personal interests compilation.  
-Just don't want to lose these links.
     
 ### Category Theory
   
@@ -45,16 +44,34 @@ Just don't want to lose these links.
 - Machine Learning, Andrew Ng - Stanford    
  * https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 
-### Algorithms
+### Algorithms and Data Structures
 
 - Algorithms, Tim Roughgarden, Stanford
  * https://www.youtube.com/watch?v=yRM3sc57q0c&list=PLEAYkSg4uSQ37A6_NrUnTHEKp6EkAxTMa
+ 
+- CSE373, Steven Skiena
+ * https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp
  
 ### Database Design
 
 - NoSql design patterns, Rick Houlihan
  * https://www.youtube.com/watch?v=HaEPXoXVf2k
  
-### CS
- - Teach yourself CS
-  * https://teachyourselfcs.com/
+### Programming
+
+ - CS 61A, Brian Harvey at Berkeley
+  * https://www.youtube.com/watch?v=Tkciq5IQVp0&list=PLgvMWVyLhC2-ihGmdSlv_uUK8xTZTctWI
+ 
+ - Stricture and Interpretation of Computer Programs
+  * https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+  
+### Computer Architecture
+
+ - Great Ideas in Computer Architecture, CS61C at Berkeley
+  * https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs
+  
+### Mathematics for Computer Science
+ 
+ - MIT 6.042, Tom Leighton
+  * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
+  * https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
