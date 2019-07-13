@@ -2,9 +2,7 @@
   
 Personal interests compilation.  
 Just don't want to lose these links.
-  
-## I love Math!
-  
+    
 ### Category Theory
   
 - Category Theory - Bartosz Milewski  
@@ -56,3 +54,7 @@ Just don't want to lose these links.
 
 - NoSql design patterns, Rick Houlihan
  * https://www.youtube.com/watch?v=HaEPXoXVf2k
+ 
+### CS
+ - Teach yourself CS
+  * https://teachyourselfcs.com/
