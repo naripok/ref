@@ -1,4 +1,4 @@
-# Personal Curriculum
+# Personal Curriculum and References
   
 Personal interests compilation.  
     
