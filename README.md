@@ -75,3 +75,8 @@ Personal interests compilation.
  - MIT 6.042, Tom Leighton
   * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
   * https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+
+### Operational Systems
+
+ - Simplest Possible Linux System
+  * https://www.youtube.com/watch?v=Sk9TatW9ino
