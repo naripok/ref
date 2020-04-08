@@ -80,3 +80,17 @@ Personal interests compilation.
 
  - Simplest Possible Linux System
   * https://www.youtube.com/watch?v=Sk9TatW9ino
+
+### Statistics
+
+ - Probabilistic System Analysis
+  * https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe
+  
+ - MIT 6.262 Discrete Stochastic Processes, Spring 2011
+  * https://www.youtube.com/watch?v=7CYXy9J4Aao&list=PLEEF5322B331C1B98
+  
+ - MIT 18.650 Statistics for Applications, Fall 2016
+  * https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0
+  
+ - MIT 6.262 Discrete Stochastic Processes, Spring 2011
+  * https://www.youtube.com/watch?v=7CYXy9J4Aao&list=PLEEF5322B331C1B98
