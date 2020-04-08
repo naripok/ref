@@ -62,7 +62,7 @@ Personal interests compilation.
  - CS 61A, Brian Harvey at Berkeley
   * https://www.youtube.com/watch?v=Tkciq5IQVp0&list=PLgvMWVyLhC2-ihGmdSlv_uUK8xTZTctWI
  
- - Stricture and Interpretation of Computer Programs
+ - Structure and Interpretation of Computer Programs
   * https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
   
 ### Computer Architecture
