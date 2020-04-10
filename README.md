@@ -57,7 +57,7 @@ Personal references compilation.
 ### Mathematics for Computer Science
 
 - [MIT 6.042, Tom Leight](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
-  * [pdf reference](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+  * [pdf](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ### Operational Systems
 
