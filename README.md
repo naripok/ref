@@ -24,6 +24,8 @@ Personal references compilation.
 
 - [Artificial Intelligence - Patrick Winston, MIT 6.034](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
+- [CS480/680 Machine Learning - University of Waterloo](https://www.youtube.com/watch?v=GouhgbE5gPk&list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)
+
 #### NLP
 
 - [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
@@ -39,6 +41,8 @@ Personal references compilation.
 #### RL
 
 - [Reinforcement Learning, David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+
+- [CS885 Reinforcement Learning - University of Waterloo](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
 
 ### Algorithms and Data Structures
 
