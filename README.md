@@ -22,17 +22,23 @@ Personal references compilation.
 
 ### Machine Learning
 
-- [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
-
-- [Stanford CS224N: NLP with Deep Learning | Winter 20](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-
 - [Artificial Intelligence - Patrick Winston, MIT 6.034](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
-- [Reinforcement Learning, David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
+#### NLP
+
+- [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
+
+- [Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+#### CV
 
 - [Machine Learning, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 - [Machine Learning, Andrew Ng - Stanford  ](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+
+#### RL
+
+- [Reinforcement Learning, David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)
 
 ### Algorithms and Data Structures
 
