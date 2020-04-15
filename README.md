@@ -132,3 +132,21 @@ Personal references compilation.
 - [Tim Roughgarden](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg)
 
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+
+
+# Papers
+
+## Machine Learning
+
+### NLP
+
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+- [Google’s Neural Machine Translation System: Bridging the Gapbetween Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+
+
+## Finance
+
+### Portfolio Optimization
+
+- [Portfolio optimization for heavy-tailed assets: Extreme Risk Index vs. Markowitz](https://arxiv.org/abs/1505.04045)
