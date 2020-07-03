@@ -1,6 +1,4 @@
-# Personal Curriculum and References
-
-Personal references compilation.
+# References
 
 
 ### Category Theory
@@ -8,6 +6,8 @@ Personal references compilation.
 - [Category Theory - Bartosz Milewski](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 - [Category Theory 2 - Bartosz Milewski](https://www.youtube.com/watch?v=3XTQSx1A3x8&list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm)
+
+- [Category Theory 3 - Bartosz Milewski](https://www.youtube.com/watch?v=F5uEpKwHqdk&list=PLbgaMIhjbmEn64WVX4B08B4h2rOtueWIL)
 
 - [Applied Category Theory - David Spivak / Brendan Fong, MIT 18.S097](https://www.youtube.com/watch?v=UusLtx9fIjs&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 
