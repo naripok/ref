@@ -133,6 +133,8 @@
 
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
 
+- [Applied Category Theory](https://www.youtube.com/channel/UC1Kxtc6DOexi4JT-t57Ey9g/videos)
+
 
 # Papers
 
