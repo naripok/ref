@@ -13,6 +13,8 @@
 
 - [Categorical Databases talk, David Spivak](https://www.youtube.com/watch?v=bk36__qkhrk)
 
+- [Category theory is a universal modeling language](http://math.mit.edu/~dspivak/informatics/)
+
 
 ### Game Theory
 
