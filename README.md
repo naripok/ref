@@ -148,6 +148,8 @@
 
 - [Google’s Neural Machine Translation System: Bridging the Gapbetween Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 
+- [Rethinking Search: Making Experts out of Dilettantes](https://arxiv.org/pdf/2105.02274.pdf)
+
 
 ## Finance
 
