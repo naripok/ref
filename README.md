@@ -142,6 +142,8 @@
 
 ## Machine Learning
 
+### Deep learning
+
 - [Event-Based Backpropagation can compute Exact Gradients for Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
 
 ### NLP
