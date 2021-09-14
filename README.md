@@ -30,6 +30,10 @@
 - [Advanced Mechanism Design - Stanford](https://www.youtube.com/watch?v=1MG2k83bZmI&list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
 
+### Information Theory
+
+- [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&list=RDQMRGIHk1gFGLc&start_radio=1)
+
 ### Statistics
 
 - [Probabilistic System Analys](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe)
