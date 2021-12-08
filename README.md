@@ -158,6 +158,10 @@
 
 - [Rethinking Search: Making Experts out of Dilettantes](https://arxiv.org/pdf/2105.02274.pdf)
 
+### RL
+
+- [Player of Games](https://arxiv.org/abs/2112.03178)
+
 
 ## Finance
 
