@@ -61,7 +61,7 @@
 
 #### NLP
 
-- [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
+- [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) - Broken link :(
 
 - [Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
