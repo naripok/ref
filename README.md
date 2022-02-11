@@ -32,7 +32,7 @@
 
 ### Information Theory
 
-- [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&list=RDQMRGIHk1gFGLc&start_radio=1)
+- [Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 
 ### Statistics
 
