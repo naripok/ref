@@ -144,6 +144,10 @@
 
 # Papers
 
+## Data Mining
+
+- [KDD](https://www.aaai.org/Papers/KDD/1996/KDD96-014.pdf)
+
 ## Machine Learning
 
 ### Deep learning
