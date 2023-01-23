@@ -59,8 +59,6 @@
 
 - [CORNELL CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
-- [Neural Networks and the Chomsky Hierarchy (A comparative study on model generalization)](https://arxiv.org/abs/2207.02098)
-
 #### NLP
 
 - [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) - Broken link :(
@@ -151,6 +149,8 @@
 - [KDD](https://www.aaai.org/Papers/KDD/1996/KDD96-014.pdf)
 
 ## Machine Learning
+
+- [Neural Networks and the Chomsky Hierarchy (A comparative study on model generalization)](https://arxiv.org/abs/2207.02098)
 
 ### Deep learning
 
