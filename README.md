@@ -59,6 +59,8 @@
 
 - [CORNELL CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
+- [Andrej Karpathy's - The spelled-out intro to neural networks and backpropagation series](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1)
+
 #### NLP
 
 - [Natural Language Processing - Dan Jurafsky / Chris Manning](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) - Broken link :(
