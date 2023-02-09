@@ -153,6 +153,7 @@
 ## Machine Learning
 
 - [Neural Networks and the Chomsky Hierarchy (A comparative study on model generalization)](https://arxiv.org/abs/2207.02098)
+- [Liquid Time-constant Networks](https://arxiv.org/abs/2006.04439)
 
 ### Deep learning
 
