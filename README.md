@@ -167,6 +167,8 @@
 
 - [Rethinking Search: Making Experts out of Dilettantes](https://arxiv.org/pdf/2105.02274.pdf)
 
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+
 ### RL
 
 - [Player of Games](https://arxiv.org/abs/2112.03178)
