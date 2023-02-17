@@ -159,6 +159,10 @@
 
 - [Event-Based Backpropagation can compute Exact Gradients for Spiking Neural Networks](https://arxiv.org/abs/2009.08378)
 
+- [The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/abs/2212.13345)
+
+- [The Predictive Forward-Forward Algorithm](https://arxiv.org/abs/2301.01452)
+
 ### NLP
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
