@@ -148,10 +148,6 @@
 
 # Papers
 
-## Data Mining
-
-- [KDD](https://www.aaai.org/Papers/KDD/1996/KDD96-014.pdf)
-
 ## Machine Learning
 
 - [Neural Networks and the Chomsky Hierarchy (A comparative study on model generalization)](https://arxiv.org/abs/2207.02098)
