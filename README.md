@@ -161,6 +161,8 @@
 
 - [The Predictive Forward-Forward Algorithm](https://arxiv.org/abs/2301.01452)
 
+- [Knowledge is a Region in Weight Space for Fine-tuned Language Models](https://arxiv.org/abs/2302.04863)
+
 ### NLP
 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
