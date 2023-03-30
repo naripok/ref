@@ -175,6 +175,8 @@
 
 - [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
 
+- [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
+
 ### RL
 
 - [Player of Games](https://arxiv.org/abs/2112.03178)
