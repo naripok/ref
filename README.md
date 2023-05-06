@@ -181,6 +181,8 @@
 
 - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+
 ### RL
 
 - [Player of Games](https://arxiv.org/abs/2112.03178)
