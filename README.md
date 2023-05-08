@@ -183,6 +183,8 @@
 
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 
+- [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2304.01933)
+
 ### RL
 
 - [Player of Games](https://arxiv.org/abs/2112.03178)
