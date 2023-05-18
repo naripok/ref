@@ -38,7 +38,6 @@
 - [Machine Learning, Andrew Ng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Deep Learning 2015, Nando Freitas - Oxford](https://www.youtube.com/watch?v=PlhFWT7vAEw&list=PLcmaziH9sW6PHBhsM_qgf52Ay6EVY8cWT)
 - [CORNELL CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
-
 - [Andrej Karpathy's - The spelled-out intro to neural networks and backpropagation series](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Introduction to Data-Centric AI - MIT IAP 2023](https://dcai.csail.mit.edu/)
 
