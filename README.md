@@ -127,6 +127,7 @@
 - [LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models](https://arxiv.org/abs/2304.01933)
 - [Prompting Is Programming: A Query Language for Large Language Models (LMQL)](https://arxiv.org/abs/2212.06094)
 - [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333.pdf) - [code](https://github.com/princeton-nlp/MeZO)
+- [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
 
 ### RL
 
