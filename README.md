@@ -1,5 +1,7 @@
 # References
 
+## Courses
+
 ### Category Theory
 
 - [Category Theory - Bartosz Milewski](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
