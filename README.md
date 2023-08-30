@@ -1,6 +1,6 @@
 # References
 
-Curriculum, personal interests, and reference materials.
+Curriculum, personal interests, and reference material.
 
 ## Courses
 
