@@ -84,21 +84,6 @@
 
 - [Simplest Possible Linux Syst](https://www.youtube.com/watch?v=Sk9TatW9ino)
 
-# Channels
-
-- [Stanford University School of Engineering](https://www.youtube.com/user/stanfordeng/featured)
-- [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
-- [MIT](https://www.youtube.com/user/MIT)
-- [Waterloo](https://www.youtube.com/user/uwaterloo/featured)
-- [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/featured)
-- [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A/featured)
-- [Yale](https://www.youtube.com/user/YaleCourses)
-- [Kaggle](https://www.youtube.com/user/kaggledotcom/featured)
-- [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch/featured)
-- [Tim Roughgarden](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg)
-- [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
-- [Applied Category Theory](https://www.youtube.com/channel/UC1Kxtc6DOexi4JT-t57Ey9g/videos)
-
 # Papers
 
 ## Machine Learning
@@ -147,3 +132,18 @@
 # Gists
 
 - [KNN vc SVM for embedding similarity ranking](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb)
+
+# Channels
+
+- [Stanford University School of Engineering](https://www.youtube.com/user/stanfordeng/featured)
+- [Stanford](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
+- [MIT](https://www.youtube.com/user/MIT)
+- [Waterloo](https://www.youtube.com/user/uwaterloo/featured)
+- [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/featured)
+- [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A/featured)
+- [Yale](https://www.youtube.com/user/YaleCourses)
+- [Kaggle](https://www.youtube.com/user/kaggledotcom/featured)
+- [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch/featured)
+- [Tim Roughgarden](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg)
+- [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+- [Applied Category Theory](https://www.youtube.com/channel/UC1Kxtc6DOexi4JT-t57Ey9g/videos)
