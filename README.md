@@ -1,5 +1,7 @@
 # References
 
+Curriculum, personal interests, and reference raterials.
+
 ## Courses
 
 ### Category Theory
