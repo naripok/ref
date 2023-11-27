@@ -121,6 +121,7 @@ Curriculum, personal interests, and reference material.
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
+- [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 
 ### RL
 
