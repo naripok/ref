@@ -123,6 +123,7 @@ Curriculum, personal interests, and reference material.
 - [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)
 - [The Curious Case of Neural Text Degeneration](https://arxiv.org/abs/1904.09751)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 
 ### RL
 
