@@ -125,6 +125,10 @@ Curriculum, personal interests, and reference material.
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 
+### Computer Vision
+
+- [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945)
+
 ### RL
 
 - [Player of Games](https://arxiv.org/abs/2112.03178)
