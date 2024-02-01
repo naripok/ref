@@ -127,6 +127,7 @@ Curriculum, personal interests, and reference material.
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
 - [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288)
 - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
+- [Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 
 ### Computer Vision
