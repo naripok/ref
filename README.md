@@ -129,6 +129,7 @@ Curriculum, personal interests, and reference material.
 - [Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226)
 - [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288)
 - [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+- [In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering](https://arxiv.org/abs/2311.06668)
 
 ### Computer Vision
 
