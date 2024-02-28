@@ -94,6 +94,7 @@ Curriculum, personal interests, and reference material.
 
 - [Neural Networks and the Chomsky Hierarchy (A comparative study on model generalization)](https://arxiv.org/abs/2207.02098)
 - [Liquid Time-constant Networks](https://arxiv.org/abs/2006.04439)
+- [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
 
 ### Deep learning
 
