@@ -103,6 +103,7 @@ Curriculum, personal interests, and reference material.
 - [The Predictive Forward-Forward Algorithm](https://arxiv.org/abs/2301.01452)
 - [Knowledge is a Region in Weight Space for Fine-tuned Language Models](https://arxiv.org/abs/2302.04863)
 - [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486)
+- [LoRA Learns Less and Forgets Less]([https://arxiv.org/pdf/2405.09673](https://arxiv.org/abs/2405.09673))
 
 ### NLP
 
