@@ -169,3 +169,4 @@ Curriculum, personal interests, and reference material.
 - [Tim Roughgarden](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg)
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
 - [Applied Category Theory](https://www.youtube.com/channel/UC1Kxtc6DOexi4JT-t57Ey9g/videos)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
