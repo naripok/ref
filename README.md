@@ -95,6 +95,8 @@ Curriculum, personal interests, and reference material.
 - [Neural Networks and the Chomsky Hierarchy (A comparative study on model generalization)](https://arxiv.org/abs/2207.02098)
 - [Liquid Time-constant Networks](https://arxiv.org/abs/2006.04439)
 - [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
+- [The Loss Surfaces of Multilayer Networks](https://arxiv.org/abs/1412.0233)
+- [The Anisotropic Noise in Stochastic Gradient Descent: Its Behavior of Escaping from Sharp Minima and Regularization Effects](https://arxiv.org/abs/1803.00195)
 
 ### Deep learning
 
