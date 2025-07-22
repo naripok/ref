@@ -22,6 +22,7 @@ Curriculum, personal interests, and reference material.
 
 - [Algorithmic Game Theory - Tim Roughgarden](https://www.youtube.com/watch?v=TM_QFmQU_VA&index=1&list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
 - [Advanced Mechanism Design - Stanford](https://www.youtube.com/watch?v=1MG2k83bZmI&list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
+- [Incentives in computer science - Tim Roughgarder](https://www.youtube.com/watch?v=Y6AvtjD7V78&list=PLEGCF-WLh2RJdrKZ431SidRX_T4VmAKx8&index=1)
 
 ### Information Theory
 
