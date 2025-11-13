@@ -137,6 +137,7 @@ Curriculum, personal interests, and reference material.
 - [In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering](https://arxiv.org/abs/2311.06668)
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818)
 - [Learning Facts at Scale with Active Reading](https://arxiv.org/abs/2508.09494)
+- [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
 
 ### Computer Vision
 
