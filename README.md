@@ -138,6 +138,7 @@ Curriculum, personal interests, and reference material.
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818)
 - [Learning Facts at Scale with Active Reading](https://arxiv.org/abs/2508.09494)
 - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
+- [Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)
 
 ### Computer Vision
 
