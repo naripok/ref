@@ -1,6 +1,8 @@
-# References
+# My Reference List
 
-Curriculum, personal interests, and reference material.
+Every now and then, while talking with friends and students about math, statistics, machine learning, or electrical and computer engineering, we touch on a topic that deserves a proper reference. Over the years, I've read/studied a lot of material on these subjects, and I'd like to be able to reference the exact sources so our conversations can be as useful as possible.
+
+I keep these links here.
 
 ## Courses
 
