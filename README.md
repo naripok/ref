@@ -19,7 +19,6 @@ I keep these links here.
 
 - [Compositional Game Theory Seminar - Jules Hedges](https://www.youtube.com/watch?v=C64905vTT3s)
 - [Game Theory - Ben Polak, Yale](https://www.youtube.com/watch?v=nM3rTU927io&list=PL6EF60E1027E1A10B)
-- [The Bargaining Problem](https://www.haverford.edu/sites/default/files/Nash1950.pdf)
 
 ### Algorithmic Game Theory
 
@@ -93,6 +92,10 @@ I keep these links here.
 - [Simplest Possible Linux Syst](https://www.youtube.com/watch?v=Sk9TatW9ino)
 
 ## Papers
+
+### Game Theory
+
+- [The Bargaining Problem](https://www.haverford.edu/sites/default/files/Nash1950.pdf)
 
 ### Machine Learning
 
