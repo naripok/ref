@@ -141,6 +141,7 @@ I keep these links here.
 - [Learning Facts at Scale with Active Reading](https://arxiv.org/abs/2508.09494)
 - [Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
 - [Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)
+- [Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning](https://arxiv.org/abs/2608.14290)
 
 ### Computer Vision
 
